@@ -18,7 +18,10 @@ Então, o flip manuver é feito\n;
 
 Quando a nave estiver próxima do chão ele fara o flipback e então pousará em segurança;
 
+coloque o som no seu c:
+
 Você é livre para fazer o que quiser com esse código!;
+
 
 # Description - EN
 Autonomous landing of Starship within the Kerbal Space Program
