@@ -135,7 +135,7 @@ class Program
             }
             while (true)
             {
-                if (ManuverStarted == true && flightInfo.MeanAltitude < 415)
+                if (ManuverStarted == true && flightInfo.MeanAltitude < 425)
                 {
                     Console.WriteLine(flightInfo.Roll);
                     vessel.AutoPilot.TargetPitch = 120;
@@ -167,17 +167,17 @@ class Program
                 {
                     if (StartLandMode == true)
                     {
-                       
+
                         var srfFrame2 = vessel.Orbit.Body.ReferenceFrame;
                         var srfSpeed2 = vessel.Flight(srfFrame).Speed;
                         var Engine1_ = vessel.Parts.Engines[1];
                         Engine1_.Active = false;
                         control.Roll = 6;
                         float increase = 0;
-                        Console.WriteLine((float)((1 * (Math.Sqrt(srfSpeed2 / 4)) / 1.6) / 1.05));
-                        control.Throttle = (float)((1 * (Math.Sqrt(srfSpeed2 / 4)) / 1.6) / 1.05);
+                        Console.WriteLine((float)((1 * (Math.Sqrt(srfSpeed2 / 4)) / 1.6) / 1.1));
+                        control.Throttle = (float)((1 * (Math.Sqrt(srfSpeed2 / 4)) / 1.6) / 1.1);
                         control.Gear = true;
-                    
+
                         if ((float)((1 * (Math.Sqrt(srfSpeed2 / 4)) / 1.6) / 1.7) < 0.35 || flightInfo.SurfaceAltitude <= 5)
                         {
                             control.Throttle = 0;
