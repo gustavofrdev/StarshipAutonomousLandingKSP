@@ -46,7 +46,7 @@ You are free to do whatever you want with this code!
 
 https://drive.google.com/file/d/1DmkK97nQvE3yxR3XxkifAY0nmhpA9lZ5/view?usp=sharing
 
-#NEEDED MODS:
+# REQUIRED MODS:
 Modular Launch Pad
 
 Vapor Vents
