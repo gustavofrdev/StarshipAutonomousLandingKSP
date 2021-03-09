@@ -1,7 +1,11 @@
-# Youtube preview
+# Youtube previews
 
 
-https://www.youtube.com/watch?v=DbgN5wfJvcg
+1st published version https://www.youtube.com/watch?v=DbgN5wfJvcg
+
+final version video 1(cinematic): https://www.youtube.com/watch?v=-5muWCwM5fc
+
+final version video 2(normal camera): https://youtu.be/IWHip9mVfEA
 
 # Descrição - BR
 Pouso autonomo do Starship dentro do Kerbal Space Program
