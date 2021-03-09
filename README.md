@@ -45,3 +45,14 @@ You are free to do whatever you want with this code!
 #Krpc O.4.9 Download
 
 https://drive.google.com/file/d/1DmkK97nQvE3yxR3XxkifAY0nmhpA9lZ5/view?usp=sharing
+
+#NEEDED MODS:
+Modular Launch Pad
+
+Vapor Vents
+
+Tundra Exploration
+
+waterfall plumes
+
+
